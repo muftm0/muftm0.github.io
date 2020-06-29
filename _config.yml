@@ -9,7 +9,11 @@ name: Madiha Mufti
 description: Passionate Data Scientist, 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
+<<<<<<< HEAD
 avatar: https://github.com/account
+=======
+avatar: https://avatars0.githubusercontent.com/u/61482140?s=60&v=4
+>>>>>>> 01a2913f3623ffaf9db4411aa66910c32b106c24
 
 #
 # Flags below are optional
