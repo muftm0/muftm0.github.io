@@ -23,17 +23,27 @@ APR 2013 – DEC 2019, KARACHI, PAK
 #### EDUCATION
 
 **BrainStation  |  Diploma Candidate, Data Science**
+
 APR 2020 - JUN 2020, TORONTO, ON
 
 **Bahria University  |  MS Geology** 
+
 SEP  2010 - SEP 2013, ISLAMABAD, PAK
 Honor: Cum Laude
 
 **Bahria University |  BS Geophysics**
+
 SEP  2005 - SEP 2010, ISLAMABAD, PAK
 Honor: Cum Laude
 
 #### Projects
+##### Employing NLP for Multiclass Classification on Redditt and Twitter Data to Detect Career Inclinations 
+
+Identify if I can correlate the interest of people with what they write on social media to help them identify their career inclinations
+
+- Used NLP on Reddit data to train the model
+- Applied on celebrity Twitter profiles to check for transferability
+
 ### Contact me
 
-[madihamufti@gmail.com](mailto:email@domain.com)
+[madihamufti@gmail.com](mailto:madihamufti@gmail.com)
