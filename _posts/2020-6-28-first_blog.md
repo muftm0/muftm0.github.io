@@ -26,4 +26,4 @@ These are like the most basic points that have no real insight! I mean we read t
 
 So, take the plunge. Be true to yourself. Work hard and best of luck!
 
-For further questions about my experience so far regarding change in careers, please reach out to on [www.linkedin.com/in/madihamufti](www.linkedin.com/in/madihamufti). 
+For further questions about my experience so far regarding change in careers, please reach out to on [Linkedin](www.linkedin.com/in/madihamufti). 

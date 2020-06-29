@@ -4,10 +4,10 @@ title: Resume
 permalink: /resume/
 ---
 
-#### D A T A   S C I E N T I S T
+#### D A T A    S C I E N T I S T
 #### EXPERIENCE 
 
-**Reservoir Geophysicist  |  UEPL**
+Reservoir Geophysicist  |  UEPL
 
 APR 2013 – DEC 2019, KARACHI, PAK
 - Performed data analysis data from 100+ oil fields to identify top 10 opportunities for optimization across 3 different data dimensions which best reflected production optimization opportunities 
@@ -22,16 +22,16 @@ APR 2013 – DEC 2019, KARACHI, PAK
 - Responsible for regular inter departmental communication and stakeholder management 
 #### EDUCATION
 
-**BrainStation  |  Diploma Candidate, Data Science**
+BrainStation  |  Diploma Candidate, Data Science
 
 APR 2020 - JUN 2020, TORONTO, ON
 
-**Bahria University  |  MS Geology** 
+Bahria University  |  MS Geology
 
 SEP  2010 - SEP 2013, ISLAMABAD, PAK
 Honor: Cum Laude
 
-**Bahria University |  BS Geophysics**
+Bahria University |  BS Geophysics
 
 SEP  2005 - SEP 2010, ISLAMABAD, PAK
 Honor: Cum Laude
@@ -39,7 +39,7 @@ Honor: Cum Laude
 #### Projects
 ##### Employing NLP for Multiclass Classification on Redditt and Twitter Data to Detect Career Inclinations 
 
-Identify if I can correlate the interest of people with what they write on social media to help them identify their career inclinations
+Identify if the interest of people can be correlated with what they write on social media to help them identify their career inclinations
 
 - Used NLP on Reddit data to train the model
 - Applied on celebrity Twitter profiles to check for transferability
