@@ -7,10 +7,10 @@ permalink: /resume/
 ### EXPERIENCE 
 
 ##### UEPL | Karachi | Pakistan
-##### Reservoir Geophysicist I | APR 2018 – DEC 2019
-##### Reservoir Geophysicist II | APR 2015 – DEC 2018
-##### Reservoir Geophysicist III | APR 2014 – DEC 2015
-##### Reservoir Geophysicist IV | APR 2013 – APR 2014
+** Reservoir Geophysicist I | APR 2018 – DEC 2019
+Reservoir Geophysicist II | APR 2015 – DEC 2018
+Reservoir Geophysicist III | APR 2014 – DEC 2015
+Reservoir Geophysicist IV | APR 2013 – APR 2014**
 
  - Took lead on executing attribute analysis on multidimensional data to predict subsurface properties and reduced uncertainty in future opportunities saving ~$1.5 million in the well’s cost along with added oil production profits.
 - Showed initiative and out of the box thinking by performing field data analysis to identify top 10 opportunities from 100+ hydrocarbon fields, optimizing across 3 data dimensions. The resulting opportunities were the basis of planning for the year 2019.
@@ -20,16 +20,13 @@ permalink: /resume/
 EDUCATION
 
 BrainStation | Diploma Candidate, Data Science
-
 APR 2020 – JUN 2020, TORONTO, ON
 
 Bahria University | MS Geology 
-
 SEP  2010 – SEP 2013, ISLAMABAD, PAK
 Honor: Cum Laude
 
 Bahria University | BS Geophysics
-
 SEP  2005 – SEP 2010, ISLAMABAD, PAK
 Honor: Cum Laude 
 
