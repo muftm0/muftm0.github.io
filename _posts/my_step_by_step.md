@@ -1,5 +1,9 @@
+---
+layout: page
+title: My Step by Step into Data Science
+---
+
 ## Blog # 2:
-### My Step by Step into Data Science
 
 Before we begin, a disclaimer – the views expressed in my article are solely my own and are derived from my internal values. You do not have to feel the same way or even agree with me, but I do hope that you are respectful and accepting.
 
