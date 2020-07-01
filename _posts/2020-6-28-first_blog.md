@@ -3,13 +3,15 @@ layout: page
 title: Career Evolution - Background and Motivation
 ---
 
-
+## The pivot – Journey from Geoscience to Data Science
 Before we begin, a disclaimer – the views expressed in my article are solely my own and are derived from my internal values. You do not have to feel the same way or even agree with me, but I do hope that you are respectful and accepting. 
 
 In the past few days, several petroleum industry professionals have reached out to me, curious about my career evolution. So, for the interest of those who have contacted me or those who want to contact me and are a little hesitant (I understand, sometimes we don’t even know what to ask or where to begin from), here I am writing about my thought process, journey and learnings. 
 
-A little background. I am a geoscientist with an experience of about 7 years in the petroleum sector. I discovered my interest in data science while performing post-mortem on an inherited failed well. To evaluate the possible reasons for the failure, I decided to use high-end geological software packages to perform analysis on the data.  Pushing buttons on the software GUI was not enough for me, I just had to know what was happening behind it - the deeper I went, the more I loved what I saw. Fast forward a few years and a lot of self-study and probing later, I realized that ML and data science is definitely 'me’. So, I decided to quit my amazing high paying job and take the plunge.
 
+A little background. I am a geoscientist with 7 years of intensive experience in the petroleum sector. I discovered my interest in data science while performing post-mortem on an inherited failed well. To evaluate the possible reasons for the failure, I decided to use high-end geological software packages to perform data analysis. Pushing buttons on the software interface was not enough for me, I just had to understand what was happening behind the screen, which logics and assumptions are in play. The deeper I went, the more I loved what I learnt. Fast forward a few years and a lot of self-study and probing later, I realized I would love to augment my geoscience domain experience further with data science/ data analytics. So, I decided to quit my amazing high paying job and take the plunge.
+
+![alt image](me.tiff)
 A little about the plunge. As geoscientists, we all have some basic instincts – pattern detection, anomaly identification, being skeptical of the data, its source, accuracy and noise components, digging deep in it, cleaning it, making sense of it, identifying critical properties, analyzing them and coming up with non-technical explanations for the management. In a nutshell, I have explained to you a simplistic version of the process of geoscience, or have I? Have I not just explained a simplistic version of the process of data science? Hmm… The point I am trying to make is that both are sibling fields. So, for me this was a very natural transition. My mind was already trained on what to look for in data, I just learned the programming side and leveraged it to make analysis easier. And I must emphasize this is among the top five best decisions of my life. Okay, so we have talked a lotttt about the motivation, now let us focus on a few of the steps I followed to come to this point. 
 
 A little about the steps to follow. 
